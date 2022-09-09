@@ -1,9 +1,8 @@
 import java.util.Arrays;
-
+//SUJAL YADAV E21CSEU0636
 public class BubbleSort {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int[] arr = {2,5,3,2,6};
 		bubbleSort(arr);
 
