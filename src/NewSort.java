@@ -1,6 +1,5 @@
-public class NewSort 
-{
-
+public class NewSort {
+	//SUJAL YADAV E21CSEU0636
     void merge(int arr[], int l, int m, int r)
     {
         int n1 = m - l + 1;
